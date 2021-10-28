@@ -19,4 +19,4 @@ spiri-list documetation
       - Main
         - [Intro](https://spiri-leo.github.io/spiri-list-docs/docs-pages/how-to-report-problems-on-spiri-list#intro)
 
-If you need russian, go to this [page](https://spiri-leo.github.io/spiri-list-docs/ru/)
+If you need russian, go to this [page](https://spiri-leo.github.io/spiri-list-docs/ru)
