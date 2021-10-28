@@ -18,3 +18,5 @@ spiri-list documetation
    - [How to report problems if spiri-list created problem](https://spiri-leo.github.io/spiri-list-docs/docs-pages/how-to-report-problems-on-spiri-list)
       - Main
         - [Intro](https://spiri-leo.github.io/spiri-list-docs/docs-pages/how-to-report-problems-on-spiri-list#intro)
+
+If you need russian, go to this [page](https://spiri-leo.github.io/spiri-list-docs/ru/)
