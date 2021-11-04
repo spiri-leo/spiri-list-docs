@@ -1,10 +1,10 @@
 ## Как создать скриншот
 
 1. Операционные системы
-   - [Windows](https://spiri-leo.github.io/spiri-list-docs/docs-pages/how-to-screenshot-ru#windows)
-   - [Android](https://spiri-leo.github.io/spiri-list-docs/docs-pages/how-to-screenshot-ru#android)
-   - [iOS](https://spiri-leo.github.io/spiri-list-docs/docs-pages/how-to-screenshot-ru#ios)
-   - [macOS](https://spiri-leo.github.io/spiri-list-docs/docs-pages/how-to-screenshot-ru#macos)
+   - [Windows](#windows)
+   - [Android](#android)
+   - [iOS](#ios)
+   - [macOS](#macos)
 
 ## Windows
 

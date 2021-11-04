@@ -15,6 +15,27 @@ spiri-list документация
         - [imgBB](https://spiri-leo.github.io/spiri-list-docs/docs-pages/how-to-upload-screenshot-ru#imgbb)
         - [imgur](https://spiri-leo.github.io/spiri-list-docs/docs-pages/how-to-upload-screenshot-ru#imgur)
         - [Postimages](https://spiri-leo.github.io/spiri-list-docs/docs-pages/how-to-upload-screenshot-ru#postimages)
+   - [Как создать свои фильтры](https://spiri-leo.github.io/spiri-list-docs/docs-pages/how-to-create-our-filters-ru)
+      - [Комментария](https://spiri-leo.github.io/spiri-list-docs/docs-pages/how-to-create-our-filters-ru#комментария)
+      - [Блокировка домена](https://spiri-leo.github.io/spiri-list-docs/docs-pages/how-to-create-our-filters-ru#блокировка-домена)
+        - [Блокировка домена только одного протокола](https://spiri-leo.github.io/spiri-list-docs/docs-pages/how-to-create-our-filters-ru#блокировка-домена-только-одного-протокола)
+      - [Модификаторы](https://spiri-leo.github.io/spiri-list-docs/docs-pages/how-to-create-our-filters-ru#модификаторы)
+      - [Простые модификаторы](https://spiri-leo.github.io/spiri-list-docs/docs-pages/how-to-create-our-filters-ru#простые-модификаторы)
+      - [Generic модификаторы](https://spiri-leo.github.io/spiri-list-docs/docs-pages/how-to-create-our-filters-ru#generic-модификаторы)
+      - [Дополнительные модификаторы](https://spiri-leo.github.io/spiri-list-docs/docs-pages/how-to-create-our-filters-ru#дополнительные модификаторы)
+      - [Разблокировка домена](https://spiri-leo.github.io/spiri-list-docs/docs-pages/how-to-create-our-filters-ru#разблокировка-домена)
+      - [Блокировка CSS-элемента](https://spiri-leo.github.io/spiri-list-docs/docs-pages/how-to-create-our-filters-ru#блокировка-css-элемента)
+      - [CSS-селекторы](https://spiri-leo.github.io/spiri-list-docs/docs-pages/how-to-create-our-filters-ru#css-селекторы)
    - [Как сообщить о проблемах, если spiri-list создал проблему](https://spiri-leo.github.io/spiri-list-docs/docs-pages/how-to-report-problems-on-spiri-list-ru)
       - Главная
         - [Интро](https://spiri-leo.github.io/spiri-list-docs/docs-pages/how-to-report-problems-on-spiri-list-ru#интро)
+   - Руководства по блокировке рекламы
+      - [Как обновлять фильтры](https://spiri-leo.github.io/spiri-list-docs/docs-pages/how-to-update-filters-ru)
+	    - Блокировщики рекламы
+		  - [AdGuard](https://spiri-leo.github.io/spiri-list-docs/docs-pages/how-to-update-filters-ru#adguard)
+          - [uBlock](https://spiri-leo.github.io/spiri-list-docs/docs-pages/how-to-update-filters-ru#ublock)
+      - [Как добавить фильтры](https://spiri-leo.github.io/spiri-list-docs/docs-pages/how-to-add-filters-ru)
+	    - Блокировщики рекламы
+		  - [uBlock](https://spiri-leo.github.io/spiri-list-docs/docs-pages/how-to-add-filters-ru#ublock)
+          - [AdGuard](https://spiri-leo.github.io/spiri-list-docs/docs-pages/how-to-add-filters-ru#adguard)
+          - [AdGuard для Android](https://spiri-leo.github.io/spiri-list-docs/docs-pages/how-to-add-filters-ru#adguard-для-android)

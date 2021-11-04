@@ -1,11 +1,11 @@
 ## How to upload screenshot
 
 1. Main
-   - [Intro](https://spiri-leo.github.io/spiri-list-docs/docs-pages/how-to-upload-screenshot#intro)
+   - [Intro](#intro)
 2. Image providers
-   - [imgBB](https://spiri-leo.github.io/spiri-list-docs/docs-pages/how-to-upload-screenshot#imgbb)
-   - [imgur](https://spiri-leo.github.io/spiri-list-docs/docs-pages/how-to-upload-screenshot#imgur)
-   - [Postimages](https://spiri-leo.github.io/spiri-list-docs/docs-pages/how-to-upload-screenshot#postimages)
+   - [imgBB](#imgbb)
+   - [imgur](#imgur)
+   - [Postimages](#postimages)
 
 
 ## Intro

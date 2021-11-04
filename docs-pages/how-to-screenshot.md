@@ -1,10 +1,10 @@
 ## How to create screenshot?
 
 1. Operating systems
-   - [Windows](https://spiri-leo.github.io/spiri-list-docs/docs-pages/how-to-screenshot#windows)
-   - [Android](https://spiri-leo.github.io/spiri-list-docs/docs-pages/how-to-screenshot#android)
-   - [iOS](https://spiri-leo.github.io/spiri-list-docs/docs-pages/how-to-screenshot#ios)
-   - [macOS](https://spiri-leo.github.io/spiri-list-docs/docs-pages/how-to-screenshot#macos)
+   - [Windows](#windows)
+   - [Android](#android)
+   - [iOS](#ios)
+   - [macOS](#macos)
 
 ## Windows
 

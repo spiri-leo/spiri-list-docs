@@ -1,11 +1,11 @@
 ## Как загрузить скриншот
 
 1. Главное
-   - [Интро](https://spiri-leo.github.io/spiri-list-docs/docs-pages/how-to-upload-screenshot-ru#интро)
+   - [Интро](#интро)
 2. Хостинг картинок
-   - [imgBB](https://spiri-leo.github.io/spiri-list-docs/docs-pages/how-to-upload-screenshot-ru#imgbb)
-   - [imgur](https://spiri-leo.github.io/spiri-list-docs/docs-pages/how-to-upload-screenshot-ru#imgur)
-   - [Postimages](https://spiri-leo.github.io/spiri-list-docs/docs-pages/how-to-upload-screenshot-ru#postimages)
+   - [imgBB](#imgbb)
+   - [imgur](#imgur)
+   - [Postimages](#postimages)
 
 ## Интро
 Чтобы загрузить снимок экрана в Интернете, вам потребуются поставщики изображений.
