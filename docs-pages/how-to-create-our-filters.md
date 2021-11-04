@@ -328,7 +328,7 @@ This code, custom scripts won't work on all pages of example.com.
 
 * Supports only AdGuard
 
-### '$stealth'
+### `$stealth`
 
 This modifier disables the "Antitracking" module for all pages and queries matching this rule.
 
